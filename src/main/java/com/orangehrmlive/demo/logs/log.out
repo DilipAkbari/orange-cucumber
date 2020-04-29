@@ -465,3 +465,18 @@
 2020-04-28 00:04:632 INFO  AccountPage :51 - Clicking on Welcome Admin [[ChromeDriver: chrome on WINDOWS (e4863eea51db80f9266e3327e23242c1)] -> css selector: a.panelTrigger]
 2020-04-28 00:04:493 INFO  AccountPage :58 - Clicking on Logout button Proxy element for: DefaultElementLocator 'By.linkText: Logout'
 2020-04-28 00:04:561 INFO  HomePage :45 - Login pannel message :[[ChromeDriver: chrome on WINDOWS (e4863eea51db80f9266e3327e23242c1)] -> xpath: //div[@id='logInPanelHeading']]
+2020-04-29 18:04:122 INFO  BrowserSelector :18 - Launching Chrome Browser
+2020-04-29 18:04:387 INFO  HomePage :28 - Clicking and send text to Adminusername field [[ChromeDriver: chrome on WINDOWS (ab73278853c77ec6241c4d5d173f3f91)] -> css selector: input#txtUsername]
+2020-04-29 18:04:620 INFO  HomePage :34 - Click and send password admin123 to password field [[ChromeDriver: chrome on WINDOWS (ab73278853c77ec6241c4d5d173f3f91)] -> css selector: input#txtPassword]
+2020-04-29 18:04:995 INFO  HomePage :40 - Clicking on Login button :[[ChromeDriver: chrome on WINDOWS (ab73278853c77ec6241c4d5d173f3f91)] -> css selector: input.button]
+2020-04-29 18:04:290 INFO  BrowserSelector :18 - Launching Chrome Browser
+2020-04-29 18:04:169 INFO  HomePage :28 - Clicking and send text to Adminusername field [[ChromeDriver: chrome on WINDOWS (2dec60cd4647d5c124bc217526c1f0e9)] -> css selector: input#txtUsername]
+2020-04-29 18:04:485 INFO  HomePage :34 - Click and send password admin123 to password field [[ChromeDriver: chrome on WINDOWS (2dec60cd4647d5c124bc217526c1f0e9)] -> css selector: input#txtPassword]
+2020-04-29 18:04:162 INFO  HomePage :40 - Clicking on Login button :[[ChromeDriver: chrome on WINDOWS (2dec60cd4647d5c124bc217526c1f0e9)] -> css selector: input.button]
+2020-04-29 18:04:304 INFO  BrowserSelector :18 - Launching Chrome Browser
+2020-04-29 18:04:146 INFO  HomePage :28 - Clicking and send text to Adminusername field [[ChromeDriver: chrome on WINDOWS (e4391a27b07790aeda48cd8aa60357fd)] -> css selector: input#txtUsername]
+2020-04-29 18:04:565 INFO  HomePage :34 - Click and send password admin123 to password field [[ChromeDriver: chrome on WINDOWS (e4391a27b07790aeda48cd8aa60357fd)] -> css selector: input#txtPassword]
+2020-04-29 18:04:374 INFO  HomePage :40 - Clicking on Login button :[[ChromeDriver: chrome on WINDOWS (e4391a27b07790aeda48cd8aa60357fd)] -> css selector: input.button]
+2020-04-29 18:04:751 INFO  AccountPage :51 - Clicking on Welcome Admin [[ChromeDriver: chrome on WINDOWS (e4391a27b07790aeda48cd8aa60357fd)] -> css selector: a.panelTrigger]
+2020-04-29 18:04:84 INFO  AccountPage :58 - Clicking on Logout button Proxy element for: DefaultElementLocator 'By.linkText: Logout'
+2020-04-29 18:04:141 INFO  HomePage :45 - Login pannel message :[[ChromeDriver: chrome on WINDOWS (e4391a27b07790aeda48cd8aa60357fd)] -> xpath: //div[@id='logInPanelHeading']]
